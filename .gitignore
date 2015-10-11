@@ -1,0 +1,4 @@
+*desktop.ini
+*.jar
+.netbeans*
+target/*/
